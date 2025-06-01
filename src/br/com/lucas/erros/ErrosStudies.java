@@ -1,4 +1,4 @@
-package erros;
+package br.com.lucas.erros;
 
 public class ErrosStudies {
 	public static void erros() {
